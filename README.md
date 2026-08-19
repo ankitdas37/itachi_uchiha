@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frames/main/35.jpg" alt="Uchiha Itachi" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="frames/storm.jpg" alt="Uchiha Itachi" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 </div>
 
 # Uchiha Itachi — 写輪眼 (Cinematic Web Experience)
